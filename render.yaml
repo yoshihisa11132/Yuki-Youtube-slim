@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: yuki-math-blog
+    name: yuki-yossi-blog
     env: python
     region: Oregon
     plan: free
